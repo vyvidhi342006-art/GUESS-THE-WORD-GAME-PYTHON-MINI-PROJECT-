@@ -1,0 +1,1 @@
+This is my first python mini  project that i have build using loops and conditional project(guess the word)...ss
